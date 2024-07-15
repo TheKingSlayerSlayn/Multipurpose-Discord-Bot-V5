@@ -1,17 +1,17 @@
 {
     "OWNER_IDS": [
-        166692371981926400
+        1211194540111962144
     ],
-    "TOKEN": "Your Bot Token Here",
-    "BotName": "robi",
+    "TOKEN": "MTI2MjMzMTkyOTA5MzQ3NjM3Mg.GYkqXw.6RpeBuj_ECesQXx0LhT0IiwklatzFmaSQuddv4",
+    "BotName": "Poker Fun",
     "serverLink": "https://discord.gg/encoders",
-    "wh_cl": "Webhook1",
-    "wh_bl": "Webhook2",
+    "wh_cl": "https://discord.com/api/webhooks/1262338783005773908/oQmnwM68CgFthQk_LXlTDIkt1bpSdnysBRiWMVtmeK5OJRXV0vC6dzYiGFuTAIS7vdaq",
+    "wh_bl": "https://discord.com/api/webhooks/1262339096307699773/x7biXR2ws_RgN2R3kurM47sRcbLyo0Ma5FfqhrDC-I4O_xNRttJNFeho52f_sdRKNqjc",
     "statusText": ".help",
     "EXTENSIONS": [
         "cogs.events"
     ],
     "np": [
-        166692371981926400
+        1211194540111962144
     ]
 }
